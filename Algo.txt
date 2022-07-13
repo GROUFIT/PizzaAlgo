@@ -7,6 +7,8 @@ Pull up the menu
     Use a flyer on your fridge
 Choose the pizza that you want
     Choose pizza style
+        pizza dow
+        pizza crust
     Choose the pizza size
     Choose your toppings
 Choose how to order
